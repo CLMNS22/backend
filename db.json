@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Obst kaufen"
+        },
+        {
+            "id": 2,
+            "title": "Wäsche waschen"
+        }
+    ],
+    "notes": [
+        {
+            "id": 1,
+            "title": "Paprika, Orangen"
+        },
+        {
+            "id": 2,
+            "title": "Buntwäsche"
+        }
+    ]
+}
